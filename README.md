@@ -4,4 +4,4 @@ Third project of Computer Architecture coded in C using the atmel 8051 microcont
 
 by Diogo Cruz and Diogo Nobrega
 
-![alt text](https://raw.githubusercontent.com/dcx2202/Led-dodge-game/demo.png)
+![alt text](https://raw.githubusercontent.com/dcx2202/Led-dodge-game/master/demo.png)
